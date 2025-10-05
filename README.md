@@ -1,6 +1,6 @@
 Python Password Checker
 
-A beginner-friendly Python application that checks the strength of passwords.
+A Python application that checks the strength of passwords.
 
 ## Features
 - Checks if a password is at least 8 characters long.
